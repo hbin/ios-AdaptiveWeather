@@ -407,6 +407,7 @@
 				81C1376419FF87E6009A5A72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		81C1376519FF87E6009A5A72 /* Build configuration list for PBXNativeTarget "AdaptiveWeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				81C1376719FF87E6009A5A72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
